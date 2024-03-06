@@ -1,4 +1,10 @@
+https://github.com/AdamLBS/zappy/assets/30260219/6f358351-4f3f-48b2-9c77-82d37c1ac537
+
+
 # Zappy Project Documentation
+
+
+
 
 Zappy is a project consisting of three programs: AI, Server, and GUI. These programs can be compiled using a make file provided in the project. The `make` command can be used to build the programs, and `make re` can be used to rebuild them.
 
